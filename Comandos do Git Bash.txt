@@ -1,0 +1,7 @@
+ls = lista todos os diretórios
+clear = limpa a tela
+cd .. = volta um nível 
+cd nome da pasta = entra na pasta
+cd bin = entra na pasta bin
+usar o tab para preencher os nomes
+cd c: = entra no D
